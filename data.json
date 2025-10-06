@@ -1,0 +1,38 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Echoes of the Celestial Garden",
+      "author": "Yua",
+      "cover": "https://i.pinimg.com/564x/a0/38/a7/a038a798a7605c3c1a357778218146c8.jpg",
+      "chapters": [
+        {
+          "id": 1,
+          "title": "Chapter 1: The Whispering Seed",
+          "likes": 12,
+          "content": "<p>The air in the Celestial Garden hummed with a quiet energy, a melody only the flora seemed to hear. Elara traced the glowing patterns on a Luna Petal, its light pulsing softly under her touch. It was said that every plant here held a memory, a fragment of a forgotten star. Tonight, she was looking for a very specific one.</p><p>A gentle rustle pulled her attention to a shadowy corner of the garden, where a blossom unlike any other was unfurling. It shimmered with the colours of a distant nebula, and from its core, a soft whisper echoed not in her ears, but in her mind. 'Find the key,' it seemed to say, 'before the shadow consumes the light.'</p>",
+          "comments": [
+            { "user": "Reader_Jane", "text": "Wow, what a beautiful opening!" },
+            { "user": "StoryFan22", "text": "I'm already hooked! Can't wait for more." }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Chapter 2: The Starlight Key",
+          "likes": 8,
+          "content": "<p>The whisper led Elara to the ancient Sunwood tree, its bark carved with constellations. Nestled in a hollow was a key, not of metal, but of pure, solidified starlight. It felt warm in her hand, pulsing with the same energy as the whispering blossom.</p><p>As she held it, visions flooded her mind: a looming darkness, a fractured sky, and a single, desperate hope. The key wasn't just for a lock; it was the key to awakening the garden's dormant power.</p>",
+          "comments": []
+        },
+        {
+          "id": 3,
+          "title": "Chapter 3: The Coming Shadow",
+          "likes": 5,
+          "content": "<p>A sudden chill swept through the garden, snuffing out the light of the Luna Petals. A figure emerged from the shadows, cloaked in darkness that seemed to drink the very air. 'That does not belong to you, child of light,' the figure hissed, its voice like grinding stone.</p><p>Elara clutched the key, her heart pounding. The shadow had come for the garden's heart, and she was the only one standing in its way.</p>",
+          "comments": [
+            { "user": "AlexReads", "text": "Oh no! A cliffhanger!" }
+          ]
+        }
+      ]
+    }
+  ]
+}
